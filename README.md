@@ -44,5 +44,8 @@ Through the development of this analysis, the following business questions were 
 <img width="1601" height="801" alt="Screenshot (124)" src="https://github.com/user-attachments/assets/5d7dda08-6dd9-479b-b33a-7abeacbdfa98" />
 <img width="1608" height="806" alt="Screenshot (125)" src="https://github.com/user-attachments/assets/5df4512f-1912-4790-9cc9-72a2f6a3247a" />
 
+# Link to the Tableau Story on Tableau Public
+https://public.tableau.com/views/Tableau_Sales_And_Inventory_Story/SalesAndInventoryStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 *Developed as part of a Data Analytics Portfolio.*
 
